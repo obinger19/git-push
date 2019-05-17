@@ -2,7 +2,7 @@ cd
 sudo git clone Vizsga repo URL-je
 sudo mc----> bemásoljuk a kért fájlokat (tar fájlt) a lokális repoba
 ls -al
-sudo cd proba_umszki obingert19
+cd proba_umszki obingert19
 sudo git add .
 sudo git commit -m'elso'
 sudo git config --global user.email "obinger.tamas96@gmail.com"
