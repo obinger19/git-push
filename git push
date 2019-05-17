@@ -1,6 +1,6 @@
 cd
 sudo git clone Vizsga repo URL-je
-sudo mc----> bemásoljuk a kért fájlokat (tar fájlt) a lokális repoba
+sudo mc----> BEMÁSOLJUK A KÉRT FÁJLOKAT (tar fájlt) A LOKÁLIS REPOBA
 ls -al
 cd proba_umszki obingert19
 sudo git add .
